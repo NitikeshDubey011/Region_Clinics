@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+
+.service{
+		width: 40%;
+		margin: 0 auto;
+		text-align: left;
+		height: 250px;
+}
+h2{
+	color: #fff;
+}
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+button {
+    width: 30%;
+    background: linear-gradient(135deg, #e570e7 0%,#79f1fc 100%);
+    color: #000;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+header {
+	width: 100%;
+	margin: 0 auto;
+	height: auto;
+	padding: 5px 0;
+	text-align: center;
+	background: #131313;
+}
+header h1 {
+	color: #ffffff;
+	font-family: cursive;
+}
+.container {
+	width: 100%;
+	margin: 0 auto;
+	height: auto;
+}
+.map {
+	width: 100%;
+	margin: 0 auto;
+	height: 550px;
+}
